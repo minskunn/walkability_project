@@ -38,7 +38,7 @@ The final walkability score is calculated as a weighted combination of these met
 
 ## Limitations identified
 
-This tool demonstrates the use of OSMnx for geospatial data retrieval and analysis but has the following limitations:
+Note: The following limitations are my observations and improvement ideas for the purpose of enhancing this tool, based on my understanding of walkability and urban planning concepts.
 
 ### 1. **Distance Measurement**
 
