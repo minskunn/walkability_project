@@ -1,6 +1,13 @@
-# Walkability Score Tool
+# Walkability Score Tool 
 
-## Overview (Original Version) source https://medium.com/@animagun/5-open-source-gis-projects-for-urban-planning-you-can-build-this-weekend-2c820cb10f3c
+### Walkability Project (Practice Version)
+
+This project is a practice implementation of an open-source tool (source https://medium.com/@animagun/5-open-source-gis-projects-for-urban-planning-you-can-build-this-weekend-2c820cb10f3c) I found online for calculating walkability scores using OSMnx. 
+
+I used this as a learning opportunity to better understand geospatial analysis and the use of OSMnx library.
+
+
+## Overview 
 
 This tool calculates a walkability score on a scale 1 to 100 for a given location based on three key metrics derived from OpenStreetMap (OSM) data:
 
